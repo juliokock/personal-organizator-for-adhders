@@ -1,1 +1,1 @@
-# personal-organizator-for-adhers
+# personal-organizator-for-adhders
