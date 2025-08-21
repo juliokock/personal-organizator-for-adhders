@@ -1,6 +1,8 @@
 # Personal Organizer for ADHDers
 
-A lightweight, opinionated setup to centralize day‑to‑day tools (notes, quick links, calculators) and keep experiments tidy — built to reduce friction and context switching.
+_A project by [Julio Kock](https://juliokock.com)_  
+
+A lightweight, opinionated setup to centralize day-to-day tools (notes, quick links, calculators) and keep experiments tidy — built to reduce friction and context switching.  
 
 > This repo currently includes a React front-end (`react-page/`) and a minimal HTML prototype.
 
